@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+	<PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+	  <PackageId>PdfFromXmlTemplate</PackageId>
+	  <Version>1.0.0</Version>
+	  <Authors>Dotnet Brightener</Authors>
+	  <Company>Dotnet Brightener</Company>
+	  <PackageDescription>
+		  A library that allows you to generate PDF files from pre-defined XML templates, using **[PDFSharp](https://github.com/empira/PDFsharp)** and **[MigraDoc](https://github.com/empira/MigraDoc)** library.
+	  </PackageDescription>
+	  <RepositoryUrl>https://github.com/dotnetbrightener/PDF-From-XML-Template-Generator</RepositoryUrl>
+  </PropertyGroup>
+
+</Project>
